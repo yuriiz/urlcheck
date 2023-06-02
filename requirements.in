@@ -1,0 +1,7 @@
+aiohttp
+crispy-bootstrap5
+django
+django-allauth
+django-crispy-forms
+django-database-url
+python-decouple
